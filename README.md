@@ -50,5 +50,3 @@ Each project is **end-to-end**, focused on real-world use cases, and implemented
 | 21 | Advanced Text-to-SQL Generator |
 
 ---
-
-## 📂 Repository Structure
