@@ -1,6 +1,6 @@
 # 21 Days × 21 AI Projects 🚀
 
-This repository documents my **21 Days, 21 AI Projects challenge**, where I build **one complete AI/ML project every day** to strengthen my hands-on skills across:
+This repository documents my **21 Days, 21 AI Projects challenge**, where I build **one complete project every day** to strengthen my hands-on skills across:
 
 - Data Visualisation
 - Machine Learning
