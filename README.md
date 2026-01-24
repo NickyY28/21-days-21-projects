@@ -1,6 +1,6 @@
 # 21 Days × 21 AI Projects 🚀
 
-This repository documents my **21 Days, 21 AI Projects challenge**, where I build **one complete AI/ML project every day** to strengthen my hands-on skills across:
+This repository documents my **21 Days, 21 AI Projects challenge**, where I build **one complete project every day** to strengthen my hands-on skills across:
 
 - Data Visualisation
 - Machine Learning
@@ -28,7 +28,7 @@ Each project is **end-to-end**, focused on real-world use cases, and implemented
 | Day | Project Name |
 |----|-------------|
 | 01 | Titanic Survival Prediction  |
-| 02 | Real-Time Object Detection (DL) |
+| 02 | Netflix Content Analysis |
 | 03 | Custom Text Generation Engine (Mini-GPT) |
 | 04 | Natural Language to SQL Generator |
 | 05 | Smart OCR Bot for Document Automation |
