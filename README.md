@@ -29,24 +29,24 @@ Each project is **end-to-end**, focused on real-world use cases, and implemented
 |----|-------------|
 | 01 | Titanic Survival Prediction  |
 | 02 | Netflix Content Analysis |
-| 03 | Custom Text Generation Engine (Mini-GPT) |
-| 04 | Natural Language to SQL Generator |
-| 05 | Smart OCR Bot for Document Automation |
-| 06 | AI Browser Agent for Web Automation |
-| 07 | RAG-powered Knowledge Base Chatbot |
-| 08 | Autonomous Market Analyst with AI Agents |
-| 09 | Digit Recognizer from Scratch |
-| 10 | Fast-Tracking Image Classification (Transfer Learning) |
-| 11 | Neural Style Transfer for AI Art |
-| 12 | One-Line Solutions with Hugging Face Pipelines |
-| 13 | Deep Learning for Time-Series Data |
-| 14 | Real-Time Object Detector (Advanced) |
-| 15 | Smart Internet Search Engine with AI |
+| 03 | House price prediction |
+| 04 | Heart disease pridiction |
+| 05 | Unlocking Customer Personas with AI |
+| 06 | Predicting Future Store Sales with AI |
+| 07 | Preventing Customer Churn with Feature Transformation |
+| 08 | Vision AI Fundamentals: Building a Digit Recognizer from Scratch |
+| 09 | Fast-Tracking Image Classification (Transfer Learning) |
+| 10 | Neural Style Transfer for AI Art |
+| 11 | One-Line Solutions with Hugging Face Pipelines |
+| 12 | Deep Learning for Time-Series Data |
+| 13 | Real-Time Object Detector (Advanced) |
+| 14 | Creating a Custom Text Generation Engine |
+| 15 | Building a Natural Language to SQL Generator |
 | 16 | Intelligent Document Automation (OCR Bot) |
-| 17 | AI-Powered Newsletter Pipeline (n8n) |
+| 17 | Build Your Own Intelligent Image Search Engine |
 | 18 | Powerful RAG Chatbot |
 | 19 | Autonomous AI Agents for Deep Research |
 | 20 | AI Browser Agent (Enhanced) |
-| 21 | Advanced Text-to-SQL Generator |
+| 21 | Building an AI-Powered Newsletter Pipeline on n8n |
 
 ---
